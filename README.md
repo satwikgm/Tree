@@ -26,3 +26,5 @@
 11) Check if Subtree.
 
 12) Zig Zag Level Order Traversal (using queue only).
+
+13) Print all root to leaf paths in a binary tree.
